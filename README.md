@@ -1,1 +1,5 @@
 # learnfirst
+
+goal
+
+software engineering
